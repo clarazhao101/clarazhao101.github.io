@@ -260,7 +260,7 @@ nav p a:hover{
   flex-direction:column;
   margin-left:5px;
   padding: 10px;
-
+  font-family: 'Rajdhani', sans-serif;
   overflow: scroll;
 }
 
